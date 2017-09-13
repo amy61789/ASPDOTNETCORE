@@ -1,0 +1,11 @@
+c:\users\amy funk\source\repos\Class02Demo\Class02Demo\bin\Debug\netcoreapp1.1\Class02Demo.deps.json
+c:\users\amy funk\source\repos\Class02Demo\Class02Demo\bin\Debug\netcoreapp1.1\Class02Demo.runtimeconfig.json
+c:\users\amy funk\source\repos\Class02Demo\Class02Demo\bin\Debug\netcoreapp1.1\Class02Demo.runtimeconfig.dev.json
+c:\users\amy funk\source\repos\Class02Demo\Class02Demo\obj\Debug\netcoreapp1.1\Class02Demo.csprojResolveAssemblyReference.cache
+c:\users\amy funk\source\repos\Class02Demo\Class02Demo\obj\Debug\netcoreapp1.1\Class02Demo.csproj.CoreCompileInputs.cache
+c:\users\amy funk\source\repos\Class02Demo\Class02Demo\obj\Debug\netcoreapp1.1\Class02Demo.AssemblyInfo.cs
+c:\users\amy funk\source\repos\Class02Demo\Class02Demo\bin\Debug\netcoreapp1.1\Class02Demo.dll
+c:\users\amy funk\source\repos\Class02Demo\Class02Demo\bin\Debug\netcoreapp1.1\Class02Demo.pdb
+c:\users\amy funk\source\repos\Class02Demo\Class02Demo\obj\Debug\netcoreapp1.1\Class02Demo.dll
+c:\users\amy funk\source\repos\Class02Demo\Class02Demo\obj\Debug\netcoreapp1.1\Class02Demo.pdb
+C:\Users\Amy Funk\source\repos\Class02Demo\Class02Demo\obj\Debug\netcoreapp1.1\Class02Demo.AssemblyInfoInputs.cache
