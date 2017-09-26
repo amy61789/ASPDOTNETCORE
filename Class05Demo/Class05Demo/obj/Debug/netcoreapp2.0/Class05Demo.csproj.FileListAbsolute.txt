@@ -1,0 +1,11 @@
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\bin\Debug\netcoreapp2.0\Class05Demo.deps.json
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\bin\Debug\netcoreapp2.0\Class05Demo.runtimeconfig.json
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\bin\Debug\netcoreapp2.0\Class05Demo.runtimeconfig.dev.json
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\bin\Debug\netcoreapp2.0\Class05Demo.dll
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\bin\Debug\netcoreapp2.0\Class05Demo.pdb
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\obj\Debug\netcoreapp2.0\Class05Demo.csprojResolveAssemblyReference.cache
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\obj\Debug\netcoreapp2.0\Class05Demo.csproj.CoreCompileInputs.cache
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\obj\Debug\netcoreapp2.0\Class05Demo.AssemblyInfoInputs.cache
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\obj\Debug\netcoreapp2.0\Class05Demo.AssemblyInfo.cs
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\obj\Debug\netcoreapp2.0\Class05Demo.dll
+C:\Users\Amy Funk\source\repos\Class05Demo\Class05Demo\obj\Debug\netcoreapp2.0\Class05Demo.pdb
