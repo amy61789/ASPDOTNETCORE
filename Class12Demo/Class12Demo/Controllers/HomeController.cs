@@ -1,15 +1,25 @@
-﻿using System;
+﻿using Class12Demo.ViewModels;
+using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace Class12Demo.Controllers
 {
-    public class HomeController
+    public class HomeController : Controller
     {
-        public string Index()
+        public ViewResult Index()
         {
-            return "Welcome to our Movie Library!";
+            Movie movie = new Movie
+            {
+                Title = "Jurassic Park",
+                ReleaseDate = 1993,
+                Rating = "PG-13",
+                RunTime = 127
+            };
+
+            return View(movie);
         }
     }
 }
