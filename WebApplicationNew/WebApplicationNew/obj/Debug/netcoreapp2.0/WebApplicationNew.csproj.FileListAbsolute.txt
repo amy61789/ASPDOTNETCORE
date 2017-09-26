@@ -1,0 +1,11 @@
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\bin\Debug\netcoreapp2.0\WebApplicationNew.deps.json
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\bin\Debug\netcoreapp2.0\WebApplicationNew.runtimeconfig.json
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\bin\Debug\netcoreapp2.0\WebApplicationNew.runtimeconfig.dev.json
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\bin\Debug\netcoreapp2.0\WebApplicationNew.dll
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\bin\Debug\netcoreapp2.0\WebApplicationNew.pdb
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\obj\Debug\netcoreapp2.0\WebApplicationNew.csprojResolveAssemblyReference.cache
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\obj\Debug\netcoreapp2.0\WebApplicationNew.csproj.CoreCompileInputs.cache
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\obj\Debug\netcoreapp2.0\WebApplicationNew.AssemblyInfoInputs.cache
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\obj\Debug\netcoreapp2.0\WebApplicationNew.AssemblyInfo.cs
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\obj\Debug\netcoreapp2.0\WebApplicationNew.dll
+C:\Users\Amy Funk\source\repos\WebApplicationNew\WebApplicationNew\obj\Debug\netcoreapp2.0\WebApplicationNew.pdb
