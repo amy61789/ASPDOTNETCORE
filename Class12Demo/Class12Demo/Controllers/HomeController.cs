@@ -11,6 +11,8 @@ namespace Class12Demo.Controllers
     {
         public ViewResult Index()
         {
+            IEnumerable<Movie> listOmovies = new IEnumerable<Movie> { }
+
             Movie movie = new Movie
             {
                 Title = "Jurassic Park",
@@ -19,7 +21,14 @@ namespace Class12Demo.Controllers
                 RunTime = 127
             };
 
+            ViewData["movie"] = movie;
+
             return View(movie);
+        }
+
+        public ViewResult Add()
+        {
+            return View();
         }
     }
 }

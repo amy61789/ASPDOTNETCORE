@@ -1,13 +1,14 @@
-﻿@model Class12Demo.ViewModels.Movie
-
-@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+﻿@*
 *@
+@using Class12Demo.ViewModels;
 @{
+    var movie = ViewData["movie"] as Movie;
 }
 
-@Model.Title <br/>
-@Model.Rating <br />
-@Model.ReleaseDate <br />
-@Model.RunTime  minutes <br />
+@movie.Title <br/>
+@movie.Rating <br />
+@movie.ReleaseDate <br />
+@movie.RunTime  minutes <br />
+
+@ViewBag.Movie.Title
 
