@@ -29,12 +29,11 @@ namespace Class12Demo
             {
                 app.UseExceptionHandler("/Error/Error");
             }
-
             app.UseMvc(route =>
             {
                 route.MapRoute(
                     name: "default",
-                    template: "{controller=Movie/Home}/{action=Index}/{id?}"
+                    template: "{controller=Home}/{action=Index}/{id?}"
                     );
             });
 

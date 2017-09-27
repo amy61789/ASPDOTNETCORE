@@ -9,7 +9,7 @@ namespace Class12Demo.Controllers
     {
         public string Error()
         {
-            return "You've hit an error! (oh no!)";
+            return "You've hit an error! (oh no!) ";
         }
     }
 }

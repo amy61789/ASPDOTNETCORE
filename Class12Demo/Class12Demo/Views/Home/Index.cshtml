@@ -1,14 +1,21 @@
-﻿@*
-*@
-@using Class12Demo.ViewModels;
+﻿@using Class12Demo.ViewModels
+@model List<Class12Demo.ViewModels.Movie>
+
 @{
-    var movie = ViewData["movie"] as Movie;
+// var movie = ViewData["movie"] as Movie;
+//var test = ViewData["test"];
 }
 
-@movie.Title <br/>
-@movie.Rating <br />
-@movie.ReleaseDate <br />
-@movie.RunTime  minutes <br />
 
-@ViewBag.Movie.Title
+@foreach (var s in @Model)
+{
+    <p>@s.Title</p>
+}
+<br />
+<br />
+
+
+
+
+
 

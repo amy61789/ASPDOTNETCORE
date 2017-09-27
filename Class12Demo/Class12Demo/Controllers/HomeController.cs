@@ -11,7 +11,8 @@ namespace Class12Demo.Controllers
     {
         public ViewResult Index()
         {
-            IEnumerable<Movie> listOmovies = new IEnumerable<Movie> { }
+            //IEnumerable<Movie> listOmovies = new IEnumerable<Movie>
+
 
             Movie movie = new Movie
             {
@@ -21,9 +22,19 @@ namespace Class12Demo.Controllers
                 RunTime = 127
             };
 
-            ViewData["movie"] = movie;
 
-            return View(movie);
+
+            List<Movie> movies = new List<Movie>() { movie };
+
+            movies.Add(new Movie { Title = "Inception", ReleaseDate = 2010, Rating = "PG-13", RunTime = 300 });
+            movies.Add(new Movie { Title = "Toy Story 3", ReleaseDate = 2010, Rating = "G", RunTime = 103 });
+
+
+
+            //ViewData["movie"] = movie;
+            //ViewData["Test"] = "Test";
+            return View(movies);
+
         }
 
         public ViewResult Add()

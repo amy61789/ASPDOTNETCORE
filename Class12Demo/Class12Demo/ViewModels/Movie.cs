@@ -11,5 +11,6 @@ namespace Class12Demo.ViewModels
         public string Rating { get; set; }
         public int ReleaseDate { get; set; }
         public int RunTime { get; set; }
+
     }
 }
