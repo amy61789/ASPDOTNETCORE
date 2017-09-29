@@ -1,0 +1,8 @@
+C:\Users\Amy Funk\source\repos\Class13Demo\Class13Demo\bin\Debug\netcoreapp2.0\Class13Demo.deps.json
+C:\Users\Amy Funk\source\repos\Class13Demo\Class13Demo\bin\Debug\netcoreapp2.0\Class13Demo.runtimeconfig.json
+C:\Users\Amy Funk\source\repos\Class13Demo\Class13Demo\bin\Debug\netcoreapp2.0\Class13Demo.runtimeconfig.dev.json
+C:\Users\Amy Funk\source\repos\Class13Demo\Class13Demo\bin\Debug\netcoreapp2.0\Class13Demo.dll
+C:\Users\Amy Funk\source\repos\Class13Demo\Class13Demo\obj\Debug\netcoreapp2.0\Class13Demo.csprojResolveAssemblyReference.cache
+C:\Users\Amy Funk\source\repos\Class13Demo\Class13Demo\obj\Debug\netcoreapp2.0\Class13Demo.csproj.CoreCompileInputs.cache
+C:\Users\Amy Funk\source\repos\Class13Demo\Class13Demo\obj\Debug\netcoreapp2.0\Class13Demo.AssemblyInfoInputs.cache
+C:\Users\Amy Funk\source\repos\Class13Demo\Class13Demo\obj\Debug\netcoreapp2.0\Class13Demo.AssemblyInfo.cs
