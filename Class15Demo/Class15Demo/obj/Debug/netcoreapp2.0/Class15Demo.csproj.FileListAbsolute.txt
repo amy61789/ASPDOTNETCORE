@@ -1,0 +1,10 @@
+C:\Users\Amy Funk\source\repos\Class15Demo\Class15Demo\bin\Debug\netcoreapp2.0\Class15Demo.deps.json
+C:\Users\Amy Funk\source\repos\Class15Demo\Class15Demo\bin\Debug\netcoreapp2.0\Class15Demo.runtimeconfig.json
+C:\Users\Amy Funk\source\repos\Class15Demo\Class15Demo\bin\Debug\netcoreapp2.0\Class15Demo.runtimeconfig.dev.json
+C:\Users\Amy Funk\source\repos\Class15Demo\Class15Demo\bin\Debug\netcoreapp2.0\Class15Demo.dll
+C:\Users\Amy Funk\source\repos\Class15Demo\Class15Demo\obj\Debug\netcoreapp2.0\Class15Demo.csproj.CoreCompileInputs.cache
+C:\Users\Amy Funk\source\repos\Class15Demo\Class15Demo\obj\Debug\netcoreapp2.0\Class15Demo.AssemblyInfoInputs.cache
+C:\Users\Amy Funk\source\repos\Class15Demo\Class15Demo\obj\Debug\netcoreapp2.0\Class15Demo.AssemblyInfo.cs
+C:\Users\Amy Funk\source\repos\Class15Demo\Class15Demo\bin\Debug\netcoreapp2.0\Class15Demo.pdb
+C:\Users\Amy Funk\source\repos\Class15Demo\Class15Demo\obj\Debug\netcoreapp2.0\Class15Demo.dll
+C:\Users\Amy Funk\source\repos\Class15Demo\Class15Demo\obj\Debug\netcoreapp2.0\Class15Demo.pdb
